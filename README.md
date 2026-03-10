@@ -32,3 +32,4 @@ Overall, this task demonstrates the design and verification of a synchronous RAM
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a6955336-e1d4-418f-ae77-e497b99893a6" />
