@@ -28,7 +28,7 @@ During simulation, display statements are used to show the current time, write e
 
 The simulation is carried out using the Vivado simulation tool, which allows the observation of signal changes through waveforms and console outputs. The waveform confirms that the RAM correctly stores data during write operations and retrieves the same data during read operations.
 
+Overall, this task demonstrates the design and verification of a synchronous RAM module using Verilog. It provides practical experience in modeling memory structures in hardware description languages and understanding how data storage and retrieval are implemented in digital systems. The successful simulation confirms that the RAM module operates correctly according to the design specifications.
+
 ## OUTPUT
 
-
-Overall, this task demonstrates the design and verification of a synchronous RAM module using Verilog. It provides practical experience in modeling memory structures in hardware description languages and understanding how data storage and retrieval are implemented in digital systems. The successful simulation confirms that the RAM module operates correctly according to the design specifications.
